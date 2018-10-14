@@ -1,0 +1,30 @@
+p {
+  color: gold;
+  font-size: 20px;
+}
+
+h1 {
+  color: white;
+  background: purple;
+  text-align: center;
+}
+
+body {
+  border: 10px solid black;
+  width: 700px;
+  padding: 30px;
+  margin: 60px;
+}
+
+img {
+  width: 120px;
+}
+
+.important {
+  color: blue;
+}
+
+.special {
+  color: red;
+  text-decoration: underline;
+}
